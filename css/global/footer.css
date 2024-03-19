@@ -57,9 +57,7 @@
 @media (max-width: 600px) {
   .footer {
     grid-template-columns: 1fr;
-  }
-  .footer-redes {
-    margin-bottom: 60px;
+    gap: 60px;
   }
   .footer-copy {
     margin-top: 0px;
