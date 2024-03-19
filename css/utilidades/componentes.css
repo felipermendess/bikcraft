@@ -33,6 +33,16 @@
   background-image: linear-gradient(#ffbf00, #f2a50c);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   font: 600 1.125rem/1.35 "Poppins", sans-serif;
+  width: max-content;
+}
+
+.botao.secundario {
+  background: var(--cor-10);
+  color: var(--cor-2);
+}
+
+.botao.secundario:hover {
+  background: var(--cor-9);
 }
 
 @media (max-width: 600px) {
