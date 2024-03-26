@@ -52,6 +52,7 @@
 
 .lojas-dados a {
   display: block;
+  max-width: max-content;
 }
 
 @media (max-width: 800px) {
