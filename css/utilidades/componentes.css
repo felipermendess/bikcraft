@@ -34,6 +34,8 @@
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   font: 600 1.125rem/1.35 "Poppins", sans-serif;
   width: max-content;
+  border: none;
+  cursor: pointer;
 }
 
 .botao.secundario {
